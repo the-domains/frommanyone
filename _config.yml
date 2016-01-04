@@ -1,5 +1,4 @@
-favicon: null
-name: FromManyOne
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.5519713
-  brandStrength: 0.8327033000532538
+  saturation: 0.234767
   lightness: 0.0125448
+  brandStrength: 0.8327033000532538
   brandColors:
     - '#080b10'
     - '#ffffff'
     - '#baada4'
     - '#3e424b'
     - '#8a7059'
-  rhythmicContrast: 0.1843265
+  rhythmicContrast: 0.7114695
 typography_spectrum: 0.49591
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: FromManyOne
