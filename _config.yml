@@ -1,6 +1,6 @@
 name: FromManyOne
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.19386
 typography_spectrum: 0.49591
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3e424b'
     - '#8a7059'
   brandStrength: 0.1875
-  lightness: 0.1145540636498481
-  saturation: 0.3628452168777585
-  rhythmicContrast: 0.18432644894346595
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
