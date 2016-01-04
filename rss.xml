@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FromManyOne]]></title>
+        <description><![CDATA[FromManyOne]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 09:18:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From Many One]]></title>
+            <description><![CDATA[<article><h1>From Many One</h1><p>Thanks for checking out my work.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feacf154-478a-4785-8c6d-3a11e909060f.JPG"></article>]]></description>
+            <link>undefinedfrom-many-one/index.html</link>
+            <guid isPermaLink="false">1b6fb524-7e9a-436b-8cda-9ef047910c17</guid>
+            <pubDate>Mon, 04 Jan 2016 09:18:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
