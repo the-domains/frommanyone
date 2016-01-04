@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A place to view and make my pottery yours
-datePublished: '2016-01-04T09:18:19.283Z'
-dateModified: '2016-01-04T09:18:03.392Z'
+datePublished: '2016-01-04T09:21:24.297Z'
+dateModified: '2016-01-04T09:21:13.772Z'
 title: From Many One
 author: []
 authors: []
