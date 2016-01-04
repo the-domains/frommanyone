@@ -1,7 +1,7 @@
 name: FromManyOne
 favicon: null
-layout_spectrum: 0.9148117108270526
-typography_spectrum: 0.49951950972899795
+layout_spectrum: 0
+typography_spectrum: 0.49591
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#080b10'
+    - '#ffffff'
+    - '#baada4'
+    - '#3e424b'
+    - '#8a7059'
   brandStrength: 0.8327033000532538
   lightness: 0.1145540636498481
   saturation: 0.3628452168777585
