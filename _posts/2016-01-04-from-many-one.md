@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: A place to view and make my pottery yours
-datePublished: '2016-01-04T09:21:24.297Z'
-dateModified: '2016-01-04T09:21:13.772Z'
+datePublished: '2016-01-04T09:38:18.060Z'
+dateModified: '2016-01-04T09:38:03.889Z'
 title: From Many One
 author: []
+sourcePath: _posts/2016-01-04-from-many-one.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-from-many-one.md
-published: true
 url: from-many-one/index.html
 _type: Article
 
