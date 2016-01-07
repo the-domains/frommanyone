@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: FromManyOne
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8853046
-  lightness: 0
-  brandStrength: 1
+  saturation: 0.2759857
+  lightness: 0.7222222
+  brandStrength: 0.01792115
   brandColors:
     - '#0E0E0E'
     - '#F2E9E9'
     - '#77916E'
     - '#C8B280'
     - '#78DFA3'
-  rhythmicContrast: 0.7114695
+  rhythmicContrast: 0.3261649
 typography_spectrum: 0.49591
-layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: FromManyOne
+layout_spectrum: 1
