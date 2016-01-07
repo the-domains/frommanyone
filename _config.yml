@@ -1,40 +1,40 @@
-name: FromManyOne
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.49591
+name: FromManyOne
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
+    permalink:
+      path: '/:title/'
+purpose: []
+color:
+  saturation: 0.3996416
+  brandStrength: 0.7078853
+  lightness: 0
+  brandColors:
+    - '#010100'
+    - '#A29992'
+    - '#146762'
+    - '#FFFFFF'
+    - '#F49A00'
+  rhythmicContrast: 0.7114695
+typography_spectrum: 0.49591
+layout_spectrum: 1
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#080b10'
-    - '#ffffff'
-    - '#baada4'
-    - '#3e424b'
-    - '#8a7059'
-  brandStrength: 0.8327033000532538
-  lightness: 0.0125448
-  saturation: 0.234767
-  rhythmicContrast: 0.7114695
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
